@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcClient", "MvcClient\MvcC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "JavaScriptClient\JavaScriptClient.csproj", "{04D237EE-94A9-4BBC-B732-A04C714B4E3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerAspNetIdentity", "IdentityServerAspNetIdentity\IdentityServerAspNetIdentity.csproj", "{02602EEA-3C6A-413B-B507-5EEC65498626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{04D237EE-94A9-4BBC-B732-A04C714B4E3D}.Release|x64.Build.0 = Release|Any CPU
 		{04D237EE-94A9-4BBC-B732-A04C714B4E3D}.Release|x86.ActiveCfg = Release|Any CPU
 		{04D237EE-94A9-4BBC-B732-A04C714B4E3D}.Release|x86.Build.0 = Release|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Debug|x64.Build.0 = Debug|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Debug|x86.Build.0 = Debug|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Release|x64.ActiveCfg = Release|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Release|x64.Build.0 = Release|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Release|x86.ActiveCfg = Release|Any CPU
+		{02602EEA-3C6A-413B-B507-5EEC65498626}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

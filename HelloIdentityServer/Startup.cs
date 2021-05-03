@@ -72,8 +72,9 @@ namespace HelloIdentityServer
 
         public void Configure(IApplicationBuilder app)
         {
-            // this will do the initial DB population
-            InitializeDatabase(app);
+            // this will do the initial DB population - Just one time or update with below command
+            // dotnet ef database update
+            // InitializeDatabase(app);
 
             if (Environment.IsDevelopment())
             {
